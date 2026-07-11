@@ -31,5 +31,6 @@ Include category sections
 Add a cart icon with badge
 Enhance footer with more links
 Add Responsive design for more devices
+
 🧑‍💻 Author
-Developed by Aditya Singh
+Developed by Aditya
