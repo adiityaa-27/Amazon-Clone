@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    font-family: arial;
+    box-sizing: border-box;
+}
+.navbar{
+    height: 60px;
+    background-color:#0F1111;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.nav-logo {
+    height: 50px;
+    width: 113px;
+    margin-left:10px;
+}
+
+.logo {
+    background-image: url("logo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 50px;
+    width:100%;
+}
+.border{
+    border: 2px solid transparent;
+}
+.border:hover{
+    border: 2px solid white;
+}
