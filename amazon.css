@@ -81,6 +81,9 @@
     border-bottom-right-radius:3px;
     color:#0F1111
 }
+.nav-search:hover{
+    border: 1px solid #febd69;
+}
 /** BOX4 **/
 span{
     font-size: 0.7rem;
@@ -88,4 +91,12 @@ span{
 .nav-second{
     font-size: 0.85rem;
     font-weight: 700;
+}
+.nav-cart i{
+    font-size: 30px;
+}
+.nav-cart{
+    font-size: 0.85rem;
+    font-weight: 700;
+    display:flex;
 }
