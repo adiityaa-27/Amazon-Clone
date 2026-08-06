@@ -100,3 +100,17 @@ span{
     font-weight: 700;
     display:flex;
 }
+
+/** PANEL **/
+
+.panel{
+    height: 40px;
+    background-color: #222f3d;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.panels-ops p{
+    display: inline;
+}
