@@ -111,6 +111,16 @@ span{
     align-items: center;
     justify-content: space-evenly;
 }
-.panels-ops p{
+.panel-ops p{
     display: inline;
+    margin-left: 15px;
 }
+.panel-ops{
+    width:70%;
+    font-size: 0.85rem;
+}
+.panel-deals{
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+
